@@ -1,6 +1,6 @@
 ## Trend Micro Deep Security Agent: DNS Exfiltration using legitimate CLI tool
 
-An interesting way of using the `dsa_control` CLI tool, included in `Trend Micro's Deep Security Agent (DSA)` solution, specifically its `-x` proxy feature, is that an actor can exploit it to make the tool resolve a given domain with out breaking the existing DSA configuration. This could allow data to be exfiltrated using a legitimate tool.
+An interesting way of using the `dsa_control` CLI tool, included in `Trend Micro's Deep Security Agent (DSA)` solution, specifically its `-x` proxy feature, is that an actor can "abuse" it to make the tool resolve a given domain with out breaking the existing DSA configuration. This could allow data to be exfiltrated using a legitimate tool.
 
 ⚠️NOTE: Using the `-x` proxy option may interrupt communication between the specific agent and Trend Cloud One.
 
