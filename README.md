@@ -15,6 +15,10 @@ dsa_control path: (default)
 
 ⚠️NOTE: The entire FQDN has a max length of 255 characters, so the exfiltrated data must be sent in chunks(if necessary).
 
+- [Trend Micro Configuration](#trend-micro-configuration)
+- [POC](#poc)
+- [Example](#example)
+
 ## Trend Micro Configuration
 ![alt text](assets/3.png)
 
