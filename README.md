@@ -1,4 +1,4 @@
-## Trend Micro Deep Security Agent: DNS Exfiltration using legitimate CLI tool
+## Trend Micro Deep Security Agent: DNS Exfiltration using legitimate CLI utility
 
 <img src="assets/logo.png" width=150>
 
