@@ -8,6 +8,9 @@ Requirements:
 - Administrative privileges
 - Trend Micro Deep Security Agent Installed
 
+dsa_control path: (default)
+- `C:\Program Files\Trend Micro\Deep Security Agent\`
+
 
 ## Trend Micro Configuration
 ![alt text](assets/3.png)
