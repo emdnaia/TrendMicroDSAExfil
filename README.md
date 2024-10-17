@@ -13,6 +13,7 @@ Requirements:
 dsa_control path: (default)
 - `C:\Program Files\Trend Micro\Deep Security Agent\`
 
+⚠️NOTE: The entire FQDN has a max length of 255 characters, so the exfiltrated data must be sent in chunks(if necessary).
 
 ## Trend Micro Configuration
 ![alt text](assets/3.png)
