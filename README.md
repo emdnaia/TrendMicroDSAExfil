@@ -5,5 +5,5 @@
 
 ![alt text](assets/2.PNG)
 
-![alt text](assets/1.PNG)
+![alt text](assets/1.png)
 
