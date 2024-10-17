@@ -4,6 +4,8 @@
 
 An interesting way of using the `dsa_control` CLI tool, included in `Trend Micro's Deep Security Agent (DSA)` solution, specifically its `-x` proxy feature, is that an actor can "abuse" it to make the tool resolve a given domain with out breaking the existing DSA configuration. This could allow data to be exfiltrated using a legitimate tool.
 
+"The [dsa_control](https://help.deepsecurity.trendmicro.com/aws/command-line-interface.html#dsa_cont) enables you to configure some of the Deep Security Agent settings and manually trigger such actions as activation, anti-malware scans, and baseline rebuilds."
+
 ⚠️NOTE: Using the `-x` proxy option may interrupt communication between the specific agent and Trend Cloud One.
 
 Requirements:
